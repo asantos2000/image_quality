@@ -1,0 +1,8 @@
+opencv-python
+opencv-contrib-python
+numpy
+scikit-image
+boto3
+pillow
+libsvm
+image-quality
